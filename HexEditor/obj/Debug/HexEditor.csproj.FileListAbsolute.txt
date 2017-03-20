@@ -1,0 +1,17 @@
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\bin\Debug\HexEditor.exe.config
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\bin\Debug\HexEditor.exe
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\bin\Debug\HexEditor.pdb
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor.csprojResolveAssemblyReference.cache
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\MainWindow.g.cs
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\App.g.cs
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor_MarkupCompile.cache
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor_MarkupCompile.lref
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\MainWindow.baml
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor.g.resources
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor.Properties.Resources.resources
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor.csproj.GenerateResource.Cache
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor.exe
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexEditor.pdb
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexGrid.g.cs
+c:\users\asche\documents\visual studio 2015\Projects\HexEditor\HexEditor\obj\Debug\HexGrid.baml
+C:\Users\asche\Documents\Visual Studio 2015\Projects\HexEditor\HexEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
